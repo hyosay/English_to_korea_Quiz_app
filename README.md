@@ -6,7 +6,8 @@
 * Email : gytjdwjs@cu.ac.kr
 ### 💿 APP
 * APP_NAME : EZ_TO_EN
-* Devtools : PYTHON 3.9, MYSQL, PYMYSQL
+* Devtools : PYTHON 3.9, MYSQL, PYMYSQL, pandas
+* [변수 정의 및 사전](https://github.com/hyoseong-j/English_to_korea_Quiz_app/blob/main/doc.md)
 
 추후 GUI 생성 및 배포까지 목표로 함
 
